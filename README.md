@@ -19,6 +19,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Ruby Best Practices [[Download]](/book/Ruby%20Best%20Practices.pdf)
 * Ruby by Example - Concepts and Code [[Download]](/book/Ruby%20by%20Example%20-%20Concepts%20and%20Code.pdf)
 * Ruby Cookbook - Lucas Carlson & Leonard Richardson [[Download]](/book/Ruby%20Cookbook%20-%20Lucas%20Carlson%20%26%20Leonard%20Richardson.epub)
+* Ruby Data Processing - Using Map, Reduce, and Select [[Download]](/book/Ruby%20Data%20Processing%20-%20Using%20Map%2C%20Reduce%2C%20and%20Select.pdf)
 * Ruby For Kids For Dummies [[Download]](/book/Ruby%20For%20Kids%20For%20Dummies.epub)
 * Ruby in a Nutshell - Yukihiro Matsumoto [[Download]](/book/Ruby%20in%20a%20Nutshell%20-%20Yukihiro%20Matsumoto.epub)
 * Ruby on Rails 5.0 for Autodidacts - Learn Ruby 2.3 and Rails 5.0 [[Download]](/book/Ruby%20on%20Rails%205.0%20for%20Autodidacts%20-%20Learn%20Ruby%202.3%20and%20Rails%205.0.epub)
