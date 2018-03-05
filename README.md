@@ -8,6 +8,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 
 * Beginning Ruby - From Novice to Professional - Third Edition [[Download]](/book/Beginning%20Ruby%20-%20From%20Novice%20to%20Professional%20-%20Third%20Edition.pdf)
 * Comprehensive Ruby Programming [[Download]](/book/Comprehensive%20Ruby%20Programming.pdf)
+* Deploying with JRuby 9k - Deliver Scalable Web Apps Using the JVM [[Download]](/book/Deploying%20with%20JRuby%209k%20-%20Deliver%20Scalable%20Web%20Apps%20Using%20the%20JVM.pdf)
 * Essential Ruby [[Download]](/book/Essential%20Ruby.epub)
 * Exploring Everyday Things with R and Ruby - Sau Sheong Chang [[Download]](/book/Exploring%20Everyday%20Things%20with%20R%20and%20Ruby%20-%20Sau%20Sheong%20Chang.epub)
 * Head First Ruby - A Brain-Friendly Guide [[Download]](/book/Head%20First%20Ruby%20-%20A%20Brain-Friendly%20Guide.epub)
