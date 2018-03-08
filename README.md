@@ -1,6 +1,10 @@
 # Free Ruby Books
 
-This is my personal collection of free Ruby books, please feel free to share and learn.
+This is a curated collection of free Ruby related eBooks available on the Internet. Please feel free to share and learn.
+
+If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
+
+**Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
 
 ## List of Books
 
@@ -8,6 +12,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 
 * Beginning Ruby - From Novice to Professional - Third Edition [[Download]](/book/Beginning%20Ruby%20-%20From%20Novice%20to%20Professional%20-%20Third%20Edition.pdf)
 * Comprehensive Ruby Programming [[Download]](/book/Comprehensive%20Ruby%20Programming.pdf)
+* Continuous Testing - with Ruby, Rails, and JavaScript [[Download]](/book/Continuous%20Testing%20-%20with%20Ruby%2C%20Rails%2C%20and%20JavaScript.pdf)
 * Deploying Rails with Docker, Kubernetes and ECS [[Download]](/book/Deploying%20Rails%20with%20Docker%2C%20Kubernetes%20and%20ECS.pdf)
 * Deploying with JRuby 9k - Deliver Scalable Web Apps Using the JVM [[Download]](/book/Deploying%20with%20JRuby%209k%20-%20Deliver%20Scalable%20Web%20Apps%20Using%20the%20JVM.pdf)
 * Essential Ruby [[Download]](/book/Essential%20Ruby.epub)
