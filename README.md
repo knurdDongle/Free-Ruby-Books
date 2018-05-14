@@ -36,6 +36,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Ruby Recipes - A Problem-Solution Approach [[Download]](/book/Ruby%20Recipes%20-%20A%20Problem-Solution%20Approach.pdf)
 * Ruby Under a Microscope - An Illustrated Guide to Ruby Internals [[Download]](/book/Ruby%20Under%20a%20Microscope%20-%20An%20Illustrated%20Guide%20to%20Ruby%20Internals.pdf)
 * Ruby Wizardry - An Introduction to Programming for Kids [[Download]](/book/Ruby%20Wizardry%20-%20An%20Introduction%20to%20Programming%20for%20Kids.pdf)
+* Seven Languages in Seven Weeks [[Download]](/book/Seven%20Languages%20in%20Seven%20Weeks.pdf)
 * Test Driven Development in Ruby [[Download]](/book/Test%20Driven%20Development%20in%20Ruby.pdf)
 * The Book of Ruby - A Hands-On Guide for the Adventurous [[Download]](/book/The%20Book%20of%20Ruby%20-%20A%20Hands-On%20Guide%20for%20the%20Adventurous.pdf)
 * The Ruby Programming Language [[Download]](/book/The%20Ruby%20Programming%20Language.pdf)
